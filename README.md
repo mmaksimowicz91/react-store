@@ -1,3 +1,5 @@
+This is my graduation project from my JS postgraduation studies.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
